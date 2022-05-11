@@ -1,1 +1,5 @@
-print("merge sort")
+def jamun():
+     pass
+def kosksk():
+     return 0
+
